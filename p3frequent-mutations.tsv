@@ -1,0 +1,29 @@
+DNA Change	Type	Consequences	Impact	Survival
+chr13:g.108727541C>T	Substitution	Synonymous MYO16 A155A	VEP: LOW	add to survival plot
+chr20:g.13877524C>T	Substitution	Missense SEL1L2 G341E	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr15:g.74892778delGAG	Deletion	Inframe Deletion MPI E156del	VEP: MODERATE	add to survival plot
+chr3:g.130996092G>A	Substitution	Missense ATP2C1 V737I	VEP: MODERATE, SIFT: tolerated - score 0.33, PolyPhen: benign - score 0.217	add to survival plot
+chr1:g.55123446C>T	Substitution	Splice Donor USP24 X1426_splice	VEP: HIGH	add to survival plot
+chr11:g.69774101G>A	Substitution	Missense FGF4 R123W	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.998	add to survival plot
+chrX:g.153921425G>A	Substitution	Synonymous ARHGAP4 A125A	VEP: LOW	add to survival plot
+chr4:g.2696557G>A	Substitution	Synonymous FAM193A T866T	VEP: LOW	add to survival plot
+chr2:g.219302147A>C	Substitution	Synonymous PTPRN A328A	VEP: LOW	add to survival plot
+chrX:g.149545531C>T	Substitution	Intron CXorf40A	VEP: MODIFIER	add to survival plot
+chr8:g.75017434G>A	Substitution	Missense CRISPLD1 G371S	VEP: MODERATE, SIFT: tolerated - score 0.07, PolyPhen: possibly_damaging - score 0.71	add to survival plot
+chr21:g.36227837C>A	Substitution	Missense DOPEY2 P542H	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.996	add to survival plot
+chr10:g.53827508C>T	Substitution	Missense PCDH15 A1423T	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: possibly_damaging - score 0.46	add to survival plot
+chr10:g.68645847C>T	Substitution	Missense TET1 P1040S	VEP: MODERATE, SIFT: tolerated - score 0.69, PolyPhen: benign - score 0.008	add to survival plot
+chr19:g.35059651C>T	Substitution	Intron HPN	VEP: MODIFIER	add to survival plot
+chr3:g.119492380T>A	Substitution	Missense POGLUT1 V374E	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 0.93	add to survival plot
+chr19:g.42368901C>T	Substitution	Synonymous MEGF8 D2180D	VEP: LOW	add to survival plot
+chr17:g.57885232C>T	Substitution	Synonymous CUEDC1 P111P	VEP: LOW	add to survival plot
+chr2:g.233866884C>T	Substitution	Non Coding Transcript Exon MSL3P1	VEP: MODIFIER	add to survival plot
+chr4:g.70234185T>A	Substitution	Stop Lost FDCSP *86Kext*34	VEP: HIGH	add to survival plot
+chr19:g.49661780T>C	Substitution	Intron IRF3	VEP: MODIFIER	add to survival plot
+chr2:g.25239163C>T	Substitution	Missense DNMT3A R792H	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 0.992	add to survival plot
+chr2:g.25236934A>C	Substitution	Splice Donor DNMT3A X826_splice	VEP: HIGH	add to survival plot
+chr2:g.25744364_25744365insCT	Insertion	Frameshift ASXL2 A398Efs*142	VEP: HIGH	add to survival plot
+chr15:g.88857853C>T	Substitution	Synonymous ACAN S1756S	VEP: LOW	add to survival plot
+chr2:g.46375751C>T	Substitution	Synonymous EPAS1 Y316Y	VEP: LOW	add to survival plot
+chr15:g.90088606C>T	Substitution	Missense IDH2 R172K	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr8:g.29921598G>C	Substitution	Upstream Gene FAM183CP	VEP: MODIFIER	add to survival plot

@@ -1,0 +1,55 @@
+DNA Change	Type	Consequences	Impact	Survival
+chr10:g.73647993T>A	Substitution	Synonymous SYNPO2L P553P	VEP: LOW	add to survival plot
+chrX:g.136690624delC	Deletion	Frameshift ARHGEF6 E391Nfs*15	VEP: HIGH	add to survival plot
+chr2:g.110784793C>T	Substitution	Missense ACOXL A46V	VEP: MODERATE, SIFT: tolerated - score 0.79, PolyPhen: benign - score 0.009	add to survival plot
+chr12:g.55953843A>C	Substitution	3 Prime UTR DGKA	VEP: MODIFIER	add to survival plot
+chr1:g.23796760G>A	Substitution	Synonymous GALE V244V	VEP: LOW	add to survival plot
+chr19:g.11383231C>A	Substitution	Splice Region EPOR A39A	VEP: LOW	add to survival plot
+chr11:g.106054438T>C	Substitution	Missense KBTBD3 N84S	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: benign - score 0.075	add to survival plot
+chr6:g.127813069delTT	Deletion	Frameshift THEMIS E524Afs*13	VEP: HIGH	add to survival plot
+chr9:g.94446838G>A	Substitution	Missense HIATL1 G249R	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: benign - score 0.03	add to survival plot
+chr12:g.119697768T>G	Substitution	Missense CIT I1925L	VEP: MODERATE, SIFT: deleterious - score 0.03, PolyPhen: benign - score 0.156	add to survival plot
+chr2:g.70963621G>T	Substitution	Missense ATP6V1B1 Q370H	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.991	add to survival plot
+chr2:g.48709007G>A	Substitution	Synonymous LHCGR N207N	VEP: LOW	add to survival plot
+chr1:g.223004280C>T	Substitution	Synonymous DISP1 G961G	VEP: LOW	add to survival plot
+chr14:g.92456449C>T	Substitution	Missense SLC24A4 L366F	VEP: MODERATE, SIFT: tolerated - score 0.36, PolyPhen: benign - score 0.258	add to survival plot
+chr10:g.110601132T>C	Substitution	Splice Donor SMC3 X882_splice	VEP: HIGH	add to survival plot
+chr7:g.93101142C>A	Substitution	3 Prime UTR SAMD9	VEP: MODIFIER	add to survival plot
+chr17:g.64214219G>A	Substitution	5 Prime UTR TEX2	VEP: MODIFIER	add to survival plot
+chr1:g.169470030T>C	Substitution	Missense SLC19A2 K322E	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: benign - score 0.003	add to survival plot
+chr9:g.6460647A>T	Substitution	Missense UHRF2 N240I	VEP: MODERATE, SIFT: tolerated - score 0.06, PolyPhen: possibly_damaging - score 0.537	add to survival plot
+chr12:g.49792461C>T	Substitution	Synonymous NCKAP5L L1259L	VEP: LOW	add to survival plot
+chr8:g.76854556G>T	Substitution	Synonymous ZFHX4 P2545P	VEP: LOW	add to survival plot
+chr4:g.122281724C>G	Substitution	Missense KIAA1109 S2996C	VEP: MODERATE, PolyPhen: possibly_damaging - score 0.759	add to survival plot
+chr19:g.39886034C>T	Substitution	Synonymous FCGBP A2715A	VEP: LOW	add to survival plot
+chrX:g.100987469T>A	Substitution	Missense ARL13A V189D	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: possibly_damaging - score 0.744	add to survival plot
+chr18:g.80136025T>A	Substitution	Synonymous ADNP2 V204V	VEP: LOW	add to survival plot
+chr17:g.29577158G>A	Substitution	Synonymous GIT1 G366G	VEP: LOW	add to survival plot
+chr14:g.32535628G>T	Substitution	Synonymous AKAP6 L133L	VEP: LOW	add to survival plot
+chr21:g.39661265G>A	Substitution	Missense B3GALT5 V240I	VEP: MODERATE, SIFT: tolerated - score 0.59, PolyPhen: benign - score 0.172	add to survival plot
+chr11:g.64860236C>T	Substitution	Synonymous EHD1 S215S	VEP: LOW	add to survival plot
+chrX:g.130069363G>T	Substitution	Missense ELF4 P375H	VEP: MODERATE, SIFT: tolerated - score 0.08, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr3:g.38581093G>A	Substitution	Synonymous SCN5A T1022T	VEP: LOW	add to survival plot
+chr3:g.175447308G>A	Substitution	Synonymous NAALADL2 L390L	VEP: LOW	add to survival plot
+chr15:g.49155551A>C	Substitution	Missense COPS2 C10G	VEP: MODERATE, SIFT: tolerated - score 0.39, PolyPhen: unknown - score 0	add to survival plot
+chr18:g.6237984C>A	Substitution	Missense L3MBTL4 R255I	VEP: MODERATE, SIFT: tolerated - score 0.07, PolyPhen: possibly_damaging - score 0.796	add to survival plot
+chrX:g.103712254A>C	Substitution	5 Prime UTR TMEM31	VEP: MODIFIER	add to survival plot
+chr17:g.67138096G>T	Substitution	Missense HELZ R930S	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chrX:g.153569728T>C	Substitution	Intron ATP2B3	VEP: MODIFIER	add to survival plot
+chr1:g.210242273T>C	Substitution	Missense SERTAD4 L336S	VEP: MODERATE, SIFT: tolerated - score 0.12, PolyPhen: benign - score 0.327	add to survival plot
+chr5:g.132716417C>A	Substitution	Missense KIF3A G261V	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: unknown - score 0	add to survival plot
+chr20:g.18315648G>A	Substitution	Missense ZNF133 G279E	VEP: MODERATE, SIFT: deleterious - score 0.03, PolyPhen: possibly_damaging - score 0.454	add to survival plot
+chr15:g.41754443delTG	Deletion	Frameshift MGA V2340Rfs*4	VEP: HIGH	add to survival plot
+chr9:g.81620551A>G	Substitution	Missense TLE1 S201P	VEP: MODERATE, SIFT: deleterious - score 0.05, PolyPhen: probably_damaging - score 0.954	add to survival plot
+chr14:g.23324316_23324317insC	Insertion	Intron PABPN1	VEP: MODIFIER	add to survival plot
+chr6:g.158119043T>G	Substitution	Missense SERAC1 T432P	VEP: MODERATE, SIFT: tolerated - score 0.27, PolyPhen: possibly_damaging - score 0.811	add to survival plot
+chr11:g.58943491G>T	Substitution	Intron GLYATL1	VEP: MODIFIER	add to survival plot
+chr2:g.74535690C>A	Substitution	Synonymous LOXL3 G438G	VEP: LOW	add to survival plot
+chr19:g.46919844C>T	Substitution	Missense ARHGAP35 A390V	VEP: MODERATE, SIFT: tolerated - score 0.05, PolyPhen: benign - score 0.018	add to survival plot
+chr12:g.52517635A>G	Substitution	Synonymous KRT5 I349I	VEP: LOW	add to survival plot
+chr12:g.52253675T>A	Substitution	Downstream Gene KRT7	VEP: MODIFIER	add to survival plot
+chr5:g.140848314G>A	Substitution	5 Prime UTR PCDHA9	VEP: MODIFIER	add to survival plot
+chr11:g.120905396G>A	Substitution	Missense GRIK4 R460Q	VEP: MODERATE, SIFT: tolerated - score 0.26, PolyPhen: benign - score 0.086	add to survival plot
+chr10:g.85647325G>T	Substitution	Stop Gained GRID1 Y690*	VEP: HIGH	add to survival plot
+chr4:g.153295687C>T	Substitution	Synonymous TRIM2 T387T	VEP: LOW	add to survival plot
+chr2:g.166444950T>C	Substitution	Missense SCN7A K480E	VEP: MODERATE, SIFT: tolerated - score 0.27, PolyPhen: benign - score 0.023	add to survival plot
