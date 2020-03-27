@@ -13,7 +13,7 @@ import os
 clinical_data = {}
 mutation_data = {}
 
-os.chdir('../ps5folder/patient-data')
+os.chdir('../patient-data')
 
 for i in os.listdir('../patient-data'):
     if "clinical" in i:
@@ -68,7 +68,5 @@ clean_df = pd.DataFrame(columns=patient_df.columns)
 for i in patient_dfs:
     clean_df=clean_df.append(i,sort=True)
     
-
 ax = sns.barplot(x=clean_df.index,y="chr11", data=clean_df)
 ax.set(xlabel='Patient ID', ylabel='Frequency', title='Frequency of Mutations in Chromosome 11')
-ax.figure.savefig("Chromosome-11")
