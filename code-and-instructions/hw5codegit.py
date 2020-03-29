@@ -13,7 +13,7 @@ import os
 clinical_data = {}
 mutation_data = {}
 
-os.chdir('../patient-data')
+os.chdir('../ps5folder/patient-data')
 
 for i in os.listdir('../patient-data'):
     if "clinical" in i:
